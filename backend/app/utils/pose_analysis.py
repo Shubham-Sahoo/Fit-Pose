@@ -1,6 +1,8 @@
+# pylint: disable=missing-module-docstring
+import os
 import cv2
 import mediapipe as mp
-import os
+
 
 def analyze_video(input_path):
     mp_pose = mp.solutions.pose

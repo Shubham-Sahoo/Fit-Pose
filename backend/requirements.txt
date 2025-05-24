@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart          # for file uploads
+pydantic                # data validation
+opencv-python         # video processing
+mediapipe                       # pose estimation
+numpy                  # numeric operations
+aiofiles              # async file operations
+python-dotenv          # config via .env
