@@ -7,3 +7,5 @@ mediapipe                       # pose estimation
 numpy                  # numeric operations
 aiofiles              # async file operations
 python-dotenv          # config via .env
+torch
+ffmpeg-python
